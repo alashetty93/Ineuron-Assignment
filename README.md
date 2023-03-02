@@ -1,1 +1,1 @@
-## first repo
+## 👨‍💻 iNeuron Full Stack Data Science Assignments
